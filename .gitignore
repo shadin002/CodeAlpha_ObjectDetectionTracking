@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+*.pt
+output/*.mp4
+output/*.avi
+output/*.mov
+.DS_Store
+Thumbs.db

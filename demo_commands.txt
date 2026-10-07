@@ -1,0 +1,5 @@
+python app.py --source 0
+python app.py --source 0 --save
+python app.py --source "D:\path\to\video.mp4"
+python app.py --source 0 --tracker botsort.yaml
+python app.py --source 0 --confidence 0.45
